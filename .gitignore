@@ -1,0 +1,4 @@
+/pycashe/
+*.pyc
+/flask-blog-venv
+
